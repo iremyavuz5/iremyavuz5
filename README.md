@@ -2,7 +2,7 @@
 - 👀 I’m interested in data scientist
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me yvzirem5@gmail.com
 
 <!---
 iremyavuz5/iremyavuz5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
